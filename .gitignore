@@ -35,3 +35,6 @@ supabase/local/
 # Scripts SQL avulsos de correção pontual de dados reais (gerados ad-hoc numa
 # conversa, para rodar manualmente no SQL Editor do Supabase) — nunca commitados.
 supabase/*.local.sql
+
+.vercel
+.env*
