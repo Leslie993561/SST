@@ -1,0 +1,198 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.kpiGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 14px;
+}
+
+@media (max-width: 1200px) {
+  .kpiGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.sectionCard {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.sectionHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.sectionTitle {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--color-navy);
+}
+
+.sectionSubtitle {
+  font-size: 12px;
+  color: var(--color-muted);
+  margin-top: 2px;
+  max-width: 560px;
+  line-height: 1.5;
+}
+
+.pendenteDesligamentoCard {
+  border-color: var(--color-danger-bg);
+}
+
+.link {
+  font-size: 12px;
+  color: var(--color-brand-dark);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.conformidadeRow {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.legend {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 12px;
+  color: var(--color-text);
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.legendDot {
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.emptyInline {
+  font-size: 13px;
+  color: var(--color-muted-light);
+  padding: 12px 4px;
+}
+
+.summaryRow {
+  display: flex;
+  gap: 22px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.summaryStat {
+  text-align: right;
+}
+
+.summaryLabel {
+  font-size: 11px;
+  color: var(--color-muted);
+}
+
+.summaryValue {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--color-navy);
+  font-family: var(--font-mono);
+}
+
+.positive {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--color-success);
+}
+
+.negative {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--color-danger);
+}
+
+.segmentedRow {
+  display: flex;
+}
+
+.pctBarTrack {
+  height: 7px;
+  width: 160px;
+  background: var(--color-border);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.pctBarFill {
+  height: 100%;
+  background: var(--color-brand);
+  border-radius: 20px;
+}
+
+.sstGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.sstBox {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: 15px 16px;
+}
+
+.sstLabel {
+  font-size: 11px;
+  color: var(--color-muted);
+}
+
+.sstValue {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-navy);
+  font-family: var(--font-mono);
+  margin-top: 3px;
+}
+
+.sstHint {
+  font-size: 11px;
+  color: var(--color-muted-light);
+  margin-top: 3px;
+}
+
+.sstNote {
+  font-size: 11px;
+  color: var(--color-muted-light);
+  background: var(--color-bg);
+  border-radius: 9px;
+  padding: 10px 12px;
+  line-height: 1.6;
+}
+
+.sstWarn {
+  font-size: 11px;
+  color: var(--color-muted-light);
+  background: #fbf7ec;
+  border: 1px solid #f0e6cf;
+  border-radius: 9px;
+  padding: 10px 12px;
+  line-height: 1.6;
+}
+
+.sstWarn a {
+  color: #9a6f1e;
+  font-weight: 600;
+}

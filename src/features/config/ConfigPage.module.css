@@ -1,0 +1,167 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.fullWidth {
+  grid-column: 1 / -1;
+}
+
+.title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--color-navy);
+  margin-bottom: 4px;
+}
+
+.subtitle {
+  font-size: 12px;
+  color: var(--color-muted);
+  line-height: 1.5;
+}
+
+.sourceHeader {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+
+.sourceIcon {
+  width: 42px;
+  height: 42px;
+  border-radius: 11px;
+  background: var(--color-brand-pale);
+  color: var(--color-brand-dark);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+}
+
+.roadmapNote {
+  font-size: 12px;
+  color: var(--color-muted);
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 11px;
+  padding: 12px 14px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-top: 14px;
+  max-height: 320px;
+  overflow-y: auto;
+}
+
+.listRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 11px 14px;
+  background: var(--color-bg);
+  border-radius: 10px;
+  font-size: 13px;
+}
+
+.listRowName {
+  color: var(--color-navy);
+  font-weight: 600;
+}
+
+.listRowMeta {
+  color: var(--color-muted);
+  font-size: 12px;
+}
+
+.catalogList {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-top: 14px;
+  max-height: 320px;
+  overflow-y: auto;
+}
+
+.catalogRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 9px 4px;
+  border-bottom: 1px solid var(--color-border);
+  font-size: 13px;
+  color: var(--color-text);
+}
+
+.catalogValue {
+  color: var(--color-navy);
+  font-weight: 600;
+  font-family: var(--font-mono);
+  font-size: 12px;
+}
+
+.integrationGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-top: 16px;
+}
+
+@media (max-width: 900px) {
+  .integrationGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.integrationCard {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+}
+
+.integrationGrow {
+  flex: 1;
+}
+
+.integrationIcon {
+  width: 42px;
+  height: 42px;
+  border-radius: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+}
+
+.integrationIconSuccess {
+  background: var(--color-success-bg);
+  color: var(--color-success);
+}
+.integrationIconBrand {
+  background: var(--color-brand-pale);
+  color: var(--color-brand-dark);
+}
+
+.integrationTitle {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--color-navy);
+}
+
+.integrationSubtitle {
+  font-size: 12px;
+  color: var(--color-muted);
+}

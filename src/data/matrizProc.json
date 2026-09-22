@@ -1,0 +1,280 @@
+[
+  {
+    "funcao": "ANALISTA ADMINISTRATIVO",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ANALISTA DE ENGENHARIA",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ANALISTA DE ENGENHARIA DE PROCESSO",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ANALISTA DE ENGENHARIA DE PRODUTOS",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ANALISTA DE ENGENHARIA DE PROJETOS",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ANALISTA DE GENTE E GESTÃO",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ANALISTA DE MELHORIA CONTÍNUA",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ANALISTA DE PCP",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ANALISTA DE QUALIDADE",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ANALISTA FINANCEIRO",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ASSISTENTE DE CONTROLE DA QUALIDADE",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ASSISTENTE DE OPERAÇÕES DE VENDAS",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ASSISTENTE DE PCP",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ASSISTENTE DE RH",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ASSISTENTE DE TECNOLOGIA DA INFORMAÇÃO",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ASSISTENTE DE VENDAS",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ASSISTENTE LOGÍSTICO",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG",
+      "(1410) RAIO X - COLUNA LOMBAR"
+    ]
+  },
+  {
+    "funcao": "AUXILIAR DE PRODUÇÃO",
+    "procedimentos": [
+      "(0281) AUDIOMETRIA TONAL",
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0296) ACUIDADE VISUAL",
+      "(0530) ECG",
+      "(0693) HEMOGRAMA COMPLETO",
+      "(1057) ESPIROMETRIA",
+      "(1086) RETICULOCITOS",
+      "(1410) RAIO X - COLUNA LOMBAR"
+    ]
+  },
+  {
+    "funcao": "AUXILIAR DE PRODUÇÃO I",
+    "procedimentos": [
+      "(0281) AUDIOMETRIA TONAL",
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0296) ACUIDADE VISUAL",
+      "(0530) ECG",
+      "(0693) HEMOGRAMA COMPLETO",
+      "(1057) ESPIROMETRIA",
+      "(1086) RETICULOCITOS",
+      "(1410) RAIO X - COLUNA LOMBAR"
+    ]
+  },
+  {
+    "funcao": "AUXILIAR DE PRODUÇÃO II",
+    "procedimentos": [
+      "(0281) AUDIOMETRIA TONAL",
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0296) ACUIDADE VISUAL",
+      "(0530) ECG",
+      "(0693) HEMOGRAMA COMPLETO",
+      "(1057) ESPIROMETRIA",
+      "(1086) RETICULOCITOS",
+      "(1410) RAIO X - COLUNA LOMBAR"
+    ]
+  },
+  {
+    "funcao": "AUXILIAR DE PRODUÇÃO III",
+    "procedimentos": [
+      "(0281) AUDIOMETRIA TONAL",
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0296) ACUIDADE VISUAL",
+      "(0530) ECG",
+      "(0693) HEMOGRAMA COMPLETO",
+      "(1057) ESPIROMETRIA",
+      "(1086) RETICULOCITOS",
+      "(1410) RAIO X - COLUNA LOMBAR"
+    ]
+  },
+  {
+    "funcao": "AUXILIAR DE SERVIÇOS GERAIS",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0296) ACUIDADE VISUAL",
+      "(0530) ECG",
+      "(0693) HEMOGRAMA COMPLETO",
+      "(1057) ESPIROMETRIA",
+      "(1086) RETICULOCITOS",
+      "(1410) RAIO X - COLUNA LOMBAR"
+    ]
+  },
+  {
+    "funcao": "COORDENADOR (A) DE GARANTIA DA QUALIDADE E ASSUNTOS REGULATÓRIOS",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "ESTAGIÁRIO DE PROJETOS",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "INSPETORA DA QUALIDADE",
+    "procedimentos": [
+      "(0281) AUDIOMETRIA TONAL",
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0296) ACUIDADE VISUAL",
+      "(0530) ECG",
+      "(0693) HEMOGRAMA COMPLETO",
+      "(1057) ESPIROMETRIA",
+      "(1086) RETICULOCITOS",
+      "(1410) RAIO X - COLUNA LOMBAR"
+    ]
+  },
+  {
+    "funcao": "JOVEM APRENDIZ ADMINISTRATIVO",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL"
+    ]
+  },
+  {
+    "funcao": "JOVEM APRENDIZ DE LOGÍSTICA",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(1410) RAIO X - COLUNA LOMBAR"
+    ]
+  },
+  {
+    "funcao": "LIDER DE MANUTENÇÃO",
+    "procedimentos": [
+      "(0281) AUDIOMETRIA TONAL",
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0296) ACUIDADE VISUAL",
+      "(0300) AVALIAÇÃO PSICOSSOCIAL",
+      "(0530) ECG",
+      "(0536) EEG",
+      "(0658) GLICEMIA",
+      "(0693) HEMOGRAMA COMPLETO",
+      "(1057) ESPIROMETRIA",
+      "(1086) RETICULOCITOS",
+      "(1410) RAIO X - COLUNA LOMBAR",
+      "TESTE DE ROMBERG"
+    ]
+  },
+  {
+    "funcao": "SUPERVISOR (A) DE PRODUÇÃO",
+    "procedimentos": [
+      "(0281) AUDIOMETRIA TONAL",
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0296) ACUIDADE VISUAL",
+      "(0530) ECG",
+      "(0693) HEMOGRAMA COMPLETO",
+      "(1057) ESPIROMETRIA",
+      "(1086) RETICULOCITOS",
+      "(1410) RAIO X - COLUNA LOMBAR"
+    ]
+  },
+  {
+    "funcao": "SUPERVISOR DE VENDAS",
+    "procedimentos": [
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0530) ECG"
+    ]
+  },
+  {
+    "funcao": "TÉCNICO EM MANUTENÇÃO GERAL",
+    "procedimentos": [
+      "(0281) AUDIOMETRIA TONAL",
+      "(0295) AVALIAÇÃO CLINICA OCUPACIONAL",
+      "(0296) ACUIDADE VISUAL",
+      "(0300) AVALIAÇÃO PSICOSSOCIAL",
+      "(0530) ECG",
+      "(0536) EEG",
+      "(0658) GLICEMIA",
+      "(0693) HEMOGRAMA COMPLETO",
+      "(1057) ESPIROMETRIA",
+      "(1086) RETICULOCITOS",
+      "(1410) RAIO X - COLUNA LOMBAR",
+      "TESTE DE ROMBERG"
+    ]
+  }
+]

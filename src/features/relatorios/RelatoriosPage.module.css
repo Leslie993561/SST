@@ -1,0 +1,103 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+@media (max-width: 1100px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--color-navy);
+  margin-bottom: 4px;
+}
+
+.subtitle {
+  font-size: 12px;
+  color: var(--color-muted);
+  margin-bottom: 16px;
+}
+
+.buttonList {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.exportButton {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-navy);
+  background: var(--color-bg);
+  border: 1px solid var(--color-border-strong);
+  border-radius: 10px;
+  padding: 11px 14px;
+  text-align: left;
+}
+.exportButton:hover {
+  border-color: var(--color-brand);
+}
+
+.exportButtonDisabled {
+  composes: exportButton;
+  color: var(--color-muted-light);
+  cursor: not-allowed;
+}
+
+.indicators {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.indicatorRow {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  color: var(--color-text);
+  font-size: 13px;
+}
+
+.indicatorRow strong {
+  color: var(--color-navy);
+}
+
+.muted {
+  color: var(--color-muted-light) !important;
+}
+
+.futureCard {
+  background: linear-gradient(160deg, #33485a, #2c6679);
+  color: #fff;
+}
+
+.futureSubtitle {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 16px;
+}
+
+.futureList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.futureItem {
+  display: flex;
+  gap: 10px;
+}
+
+.futureBullet {
+  color: var(--color-cyan);
+}

@@ -1,0 +1,37 @@
+.tableWrap {
+  overflow-x: auto;
+}
+
+.table {
+  width: 100%;
+  font-size: 12.5px;
+}
+
+.thead {
+  background: var(--color-bg);
+  color: var(--color-muted);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.th {
+  text-align: left;
+  padding: 10px 16px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.td {
+  padding: 11px 16px;
+  color: var(--color-text);
+  border-top: 1px solid var(--color-border);
+  vertical-align: middle;
+}
+
+.trClickable {
+  cursor: pointer;
+}
+.trClickable:hover {
+  background: var(--color-bg);
+}

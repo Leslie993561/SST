@@ -1,0 +1,75 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 16px;
+}
+
+.dateBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+  background: var(--color-warning-bg);
+  color: var(--color-warning);
+  flex: none;
+}
+
+.dateDay {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1;
+  font-family: var(--font-mono);
+}
+
+.dateMonth {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: 2px;
+}
+
+.divider {
+  width: 1px;
+  align-self: stretch;
+  background: var(--color-border);
+}
+
+.info {
+  flex: 1;
+  min-width: 0;
+}
+
+.examName {
+  font-size: 13.5px;
+  font-weight: 700;
+  color: var(--color-navy);
+}
+
+.colabLine {
+  font-size: 12px;
+  color: var(--color-muted);
+  margin-top: 3px;
+}
+
+.right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: none;
+}

@@ -1,0 +1,54 @@
+.kpi {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.highlighted {
+  border: 1px solid #f3d9d4;
+}
+
+.icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+}
+
+.icon.brand {
+  background: var(--color-brand-pale);
+  color: var(--color-brand-dark);
+}
+.icon.success {
+  background: var(--color-success-bg);
+  color: var(--color-success);
+}
+.icon.warning {
+  background: var(--color-warning-bg);
+  color: var(--color-warning);
+}
+.icon.danger {
+  background: var(--color-danger-bg);
+  color: var(--color-danger);
+}
+
+.value {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--color-navy);
+  margin-top: 12px;
+  font-family: var(--font-mono);
+}
+
+.valueDanger {
+  color: var(--color-danger);
+}
+
+.label {
+  font-size: 12px;
+  color: var(--color-muted);
+  margin-top: 2px;
+}

@@ -1,0 +1,86 @@
+.page {
+  position: fixed;
+  inset: 0;
+  background: linear-gradient(160deg, #eef5f7, #d6e7ec);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.card {
+  width: 430px;
+  max-width: 100%;
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: var(--shadow-pop);
+  padding: 38px;
+}
+
+.logo {
+  margin-bottom: 26px;
+}
+
+.eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-muted-light);
+  margin-bottom: 6px;
+}
+
+.heading {
+  font-size: 21px;
+  font-weight: 700;
+  color: var(--color-navy);
+}
+
+.description {
+  font-size: 13px;
+  color: var(--color-muted);
+  line-height: 1.6;
+  margin: 8px 0 24px;
+}
+
+.label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--color-text);
+  display: block;
+  margin-bottom: 7px;
+}
+
+.error {
+  font-size: 12px;
+  color: var(--color-danger);
+  margin-top: 8px;
+}
+
+.submit {
+  width: 100%;
+  margin-top: 16px;
+  padding: 12px;
+  font-size: 14px;
+}
+
+.footer {
+  margin-top: 20px;
+  padding-top: 18px;
+  border-top: 1px solid #eef5f7;
+  font-size: 11px;
+  color: #94a3aa;
+  line-height: 1.8;
+}
+
+.footerHead {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--color-brand-dark);
+  font-weight: 600;
+}
+
+.footerEmails {
+  margin-left: 23px;
+}

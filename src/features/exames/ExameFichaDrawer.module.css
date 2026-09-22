@@ -1,0 +1,180 @@
+.notFound {
+  font-size: 13px;
+  color: var(--color-muted);
+  padding: 20px 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 6px;
+}
+
+.nome {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--color-navy);
+}
+
+.cargo {
+  font-size: 12.5px;
+  color: var(--color-muted);
+  margin-top: 2px;
+}
+
+.desligadoBadge {
+  margin-top: 6px;
+}
+
+.infoGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 14px 0 4px;
+}
+
+.infoItem {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+
+.infoLabel {
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-muted);
+}
+
+.infoValue {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-navy);
+  margin-top: 3px;
+}
+
+.actionsRow {
+  display: flex;
+  gap: 8px;
+  margin: 14px 0;
+  flex-wrap: wrap;
+}
+
+.sectionTitle {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--color-navy);
+  margin: 18px 0 10px;
+}
+
+.emptyInline {
+  font-size: 12.5px;
+  color: var(--color-muted-light);
+  padding: 8px 0;
+}
+
+.examRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--color-border);
+}
+.examRow:last-child {
+  border-bottom: none;
+}
+
+.examInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-width: 0;
+}
+
+.examProc {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--color-navy);
+}
+
+.examDates {
+  font-size: 11.5px;
+  color: var(--color-muted);
+}
+
+.examRight {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: none;
+}
+
+.docLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 7px;
+  background: var(--color-success-bg);
+  color: var(--color-success);
+  flex: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font: inherit;
+}
+.docLink:hover {
+  filter: brightness(0.95);
+}
+.docLink:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.attachCard {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+}
+
+.attachHeader {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--color-navy);
+}
+
+.attachMeta {
+  font-size: 11.5px;
+  color: var(--color-muted);
+  margin-top: 3px;
+}
+
+.attachFileLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--color-success);
+  font-weight: 600;
+  text-decoration: none;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+}
+.attachFileLink:hover {
+  text-decoration: underline;
+}
+.attachFileLink:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

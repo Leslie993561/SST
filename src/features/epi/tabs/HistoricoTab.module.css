@@ -1,0 +1,57 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.filterCard {
+  padding: 14px 16px;
+}
+
+.filterGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr) repeat(2, 150px) auto;
+  gap: 10px;
+  align-items: center;
+}
+
+@media (max-width: 1300px) {
+  .filterGrid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.clearButton {
+  border: 1px solid var(--color-border-strong);
+  background: var(--color-surface);
+  color: var(--color-navy);
+  font-size: 12.5px;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 8px 14px;
+}
+.clearButton:hover {
+  border-color: var(--color-brand);
+}
+
+.colabCell {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.colabCell span {
+  font-size: 11px;
+  color: var(--color-muted);
+}
+
+.caTag {
+  color: var(--color-muted);
+  font-size: 11.5px;
+}
+
+.semFicha {
+  font-size: 11px;
+  color: var(--color-muted-light);
+  font-style: italic;
+  white-space: nowrap;
+}

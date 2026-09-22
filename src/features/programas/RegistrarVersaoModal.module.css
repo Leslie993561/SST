@@ -1,0 +1,72 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.dropzone {
+  border: 1.5px dashed var(--color-border-strong);
+  border-radius: var(--radius-md);
+  padding: 24px;
+  text-align: center;
+  color: var(--color-muted);
+  font-size: 13px;
+}
+
+.dropzone input {
+  margin-top: 10px;
+}
+
+.trecho {
+  background: var(--color-brand-tint);
+  border: 1px solid var(--color-brand-pale);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  font-size: 12.5px;
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
+.avisoFalha {
+  background: var(--color-warning-bg);
+  border: 1px solid #f0e0b8;
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  font-size: 12.5px;
+  color: #7a5a12;
+}
+
+.row2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.precisaoToggle {
+  display: flex;
+  gap: 16px;
+  font-size: 12.5px;
+  color: var(--color-text);
+}
+
+.precisaoToggle label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.textarea {
+  width: 100%;
+  min-height: 64px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 8px 10px;
+  font: inherit;
+  font-size: 13px;
+  resize: vertical;
+}
+
+.error {
+  color: var(--color-danger);
+  font-size: 12.5px;
+}

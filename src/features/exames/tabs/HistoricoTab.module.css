@@ -1,0 +1,152 @@
+.wrap {
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: 16px;
+  align-items: start;
+}
+
+@media (max-width: 1100px) {
+  .wrap {
+    grid-template-columns: 1fr;
+  }
+}
+
+.cardTitle {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--color-navy);
+  margin-bottom: 4px;
+}
+
+.cardSubtitle {
+  font-size: 12px;
+  color: var(--color-muted);
+  margin-bottom: 12px;
+}
+
+.colabList {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  max-height: 560px;
+  overflow-y: auto;
+}
+
+.colabRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 6px;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.colabRow:hover {
+  background: var(--color-bg);
+}
+
+.colabInfo {
+  flex: 1;
+  min-width: 0;
+}
+
+.colabNome {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--color-navy);
+}
+
+.colabCargo {
+  font-size: 11px;
+  color: var(--color-muted);
+  margin-top: 1px;
+}
+
+.colabTags {
+  display: flex;
+  gap: 6px;
+  flex: none;
+}
+
+.desligadoTag {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--color-danger);
+  background: var(--color-danger-bg);
+  padding: 2px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+.docsTag {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--color-brand-dark);
+  background: var(--color-brand-pale);
+  padding: 2px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+.logList {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  max-height: 560px;
+  overflow-y: auto;
+}
+
+.logRow {
+  display: flex;
+  gap: 10px;
+  padding: 11px 6px;
+  border-bottom: 1px solid var(--color-border);
+}
+.logRow:last-child {
+  border-bottom: none;
+}
+
+.logRowClickable {
+  composes: logRow;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.logRowClickable:hover {
+  background: var(--color-bg);
+}
+
+.logIcon {
+  width: 30px;
+  height: 30px;
+  border-radius: 9px;
+  background: var(--color-brand-pale);
+  color: var(--color-brand-dark);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+}
+
+.logInfo {
+  min-width: 0;
+}
+
+.logAction {
+  font-size: 12.5px;
+  color: var(--color-navy);
+}
+
+.logDetail {
+  font-size: 12px;
+  color: var(--color-text);
+  margin-top: 2px;
+}
+
+.logMeta {
+  font-size: 11px;
+  color: var(--color-muted-light);
+  margin-top: 3px;
+}

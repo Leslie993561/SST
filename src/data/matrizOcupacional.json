@@ -1,0 +1,4886 @@
+{
+  "fonte": {
+    "pcmso": "PCMSO — renovado 15/04/2024 (vigência 04/2024–04/2025), autor Dr. Carlos Roberto Santiago (CRM BA 4828)",
+    "pgr": "PGR — retificado 08/08/2024 (vigência 04/2024–04/2026), RT Rodrigo Nascimento de Jesus (MTE 0023100/BA)",
+    "grauRisco": "3",
+    "cnae": "3250-7/01"
+  },
+  "catalogoExames": [
+    {
+      "codigo": "0295",
+      "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+      "valor": 20,
+      "cargos": 55,
+      "periodicidades": [
+        "A cada 12 meses"
+      ],
+      "situacoes": [
+        "Admissional",
+        "Periódico",
+        "Retorno ao trabalho",
+        "Mudança de risco/função",
+        "Demissional"
+      ],
+      "obs": []
+    },
+    {
+      "codigo": "0673",
+      "nome": "GRUPO SANGUÍNEO / FATOR RH",
+      "valor": 14.8,
+      "cargos": 55,
+      "periodicidades": [],
+      "situacoes": [
+        "Admissional",
+        "Mudança de risco/função"
+      ],
+      "obs": []
+    },
+    {
+      "codigo": "0530",
+      "nome": "ECG",
+      "valor": 30,
+      "cargos": 55,
+      "periodicidades": [
+        "A cada 12 meses"
+      ],
+      "situacoes": [
+        "Periódico",
+        "Admissional",
+        "Retorno ao trabalho",
+        "Mudança de risco/função",
+        "Demissional"
+      ],
+      "obs": [
+        "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses",
+        "Recomendamos que só deverão fazer o Eletrocardiograma (ECG) os colaboradores que tiverem à"
+      ]
+    },
+    {
+      "codigo": "1410",
+      "nome": "RAIO X - COLUNA LOMBAR",
+      "valor": 42,
+      "cargos": 17,
+      "periodicidades": [
+        "A cada 24 meses"
+      ],
+      "situacoes": [
+        "Admissional",
+        "Periódico",
+        "Retorno ao trabalho",
+        "Mudança de risco/função",
+        "Demissional"
+      ],
+      "obs": []
+    },
+    {
+      "codigo": "0693",
+      "nome": "HEMOGRAMA COMPLETO",
+      "valor": 15,
+      "cargos": 13,
+      "periodicidades": [
+        "A cada 12 meses"
+      ],
+      "situacoes": [
+        "Admissional",
+        "Periódico",
+        "Retorno ao trabalho",
+        "Mudança de risco/função",
+        "Demissional"
+      ],
+      "obs": []
+    },
+    {
+      "codigo": "0296",
+      "nome": "ACUIDADE VISUAL",
+      "valor": 22.5,
+      "cargos": 13,
+      "periodicidades": [
+        "A cada 12 meses"
+      ],
+      "situacoes": [
+        "Admissional",
+        "Periódico",
+        "Retorno ao trabalho",
+        "Mudança de risco/função",
+        "Demissional"
+      ],
+      "obs": []
+    },
+    {
+      "codigo": "1057",
+      "nome": "ESPIROMETRIA",
+      "valor": 28,
+      "cargos": 13,
+      "periodicidades": [
+        "A cada 12 meses"
+      ],
+      "situacoes": [
+        "Admissional",
+        "Periódico",
+        "Retorno ao trabalho",
+        "Mudança de risco/função",
+        "Demissional"
+      ],
+      "obs": []
+    },
+    {
+      "codigo": "1086",
+      "nome": "RETICULOCITOS",
+      "valor": 7,
+      "cargos": 13,
+      "periodicidades": [
+        "A cada 12 meses"
+      ],
+      "situacoes": [
+        "Admissional",
+        "Periódico",
+        "Retorno ao trabalho",
+        "Mudança de risco/função",
+        "Demissional"
+      ],
+      "obs": []
+    },
+    {
+      "codigo": "0281",
+      "nome": "AUDIOMETRIA TONAL",
+      "valor": 25,
+      "cargos": 12,
+      "periodicidades": [
+        "A cada 6 meses"
+      ],
+      "situacoes": [
+        "Admissional",
+        "Periódico",
+        "Retorno ao trabalho",
+        "Mudança de risco/função",
+        "Demissional"
+      ],
+      "obs": [
+        "A AUDIOMETRIA deve ser realizada na admissão, no 6º mês após a admissão e, no periódico, a cada 6 meses — APENAS para cargos expostos a ruído."
+      ]
+    },
+    {
+      "codigo": "0658",
+      "nome": "GLICEMIA",
+      "valor": 0,
+      "cargos": 2,
+      "periodicidades": [
+        "A cada 12 meses"
+      ],
+      "situacoes": [
+        "Admissional",
+        "Periódico",
+        "Retorno ao trabalho",
+        "Mudança de risco/função",
+        "Demissional"
+      ],
+      "obs": []
+    },
+    {
+      "codigo": "0300",
+      "nome": "AVALIAÇÃO PSICOSSOCIAL",
+      "valor": 0,
+      "cargos": 2,
+      "periodicidades": [
+        "A cada 12 meses"
+      ],
+      "situacoes": [
+        "Admissional",
+        "Periódico",
+        "Retorno ao trabalho",
+        "Mudança de risco/função"
+      ],
+      "obs": []
+    },
+    {
+      "codigo": "0536",
+      "nome": "EEG",
+      "valor": 0,
+      "cargos": 2,
+      "periodicidades": [
+        "A cada 12 meses"
+      ],
+      "situacoes": [
+        "Admissional",
+        "Periódico",
+        "Retorno ao trabalho",
+        "Mudança de risco/função",
+        "Demissional"
+      ],
+      "obs": []
+    }
+  ],
+  "catalogoEpis": [
+    {
+      "epi": "CALÇADO ANTIDERRAPANTE",
+      "ca": "",
+      "cargos": 14,
+      "riscos": [
+        "Queda de objetos",
+        "Diferença de nível menor ou igual a dois metros",
+        "Agentes biológicos infecciosos e infectocontagiosos (bactérias, vírus, protozoários, fungos, príons, parasitas e outros)"
+      ]
+    },
+    {
+      "epi": "PROTETOR AUDITIVO",
+      "ca": "(CA: 14235)",
+      "cargos": 13,
+      "riscos": [
+        "Ruído continuo ou intermitente",
+        "Ruído"
+      ]
+    },
+    {
+      "epi": "LUVAS DE PROTEÇÃO",
+      "ca": "",
+      "cargos": 12,
+      "riscos": [
+        "Produtos químicos",
+        "Produtos químicos Diferença de nível maior que dois metros"
+      ]
+    },
+    {
+      "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+      "ca": "(CA: 39428)",
+      "cargos": 12,
+      "riscos": [
+        "Produtos químicos"
+      ]
+    },
+    {
+      "epi": "ÓCULOS DE PROTEÇÃO",
+      "ca": "(CA: 6136)",
+      "cargos": 9,
+      "riscos": [
+        "Produtos químicos",
+        "Produtos químicos Diferença de nível maior que dois metros"
+      ]
+    },
+    {
+      "epi": "LUVA TÉRMICA",
+      "ca": "",
+      "cargos": 7,
+      "riscos": [
+        "Queimaduras"
+      ]
+    },
+    {
+      "epi": "OCULOS DE PROTEÇÃO UV",
+      "ca": "",
+      "cargos": 6,
+      "riscos": [
+        "Produtos químicos"
+      ]
+    },
+    {
+      "epi": "LUVA PARA PROTEÇÃO CONTRA AGENTES MECÂNICOS",
+      "ca": "(CA: 15272)",
+      "cargos": 2,
+      "riscos": [
+        "Produtos químicos"
+      ]
+    },
+    {
+      "epi": "MÁSCARA PFF2",
+      "ca": "",
+      "cargos": 2,
+      "riscos": [
+        "Produtos químicos"
+      ]
+    },
+    {
+      "epi": "BOTAS COM BIQUEIRA DE PVC",
+      "ca": "",
+      "cargos": 2,
+      "riscos": [
+        "Diferença de nível menor ou igual a dois metros Choque elétrico Diferença de nível maior que dois metros",
+        "Diferença de nível menor ou igual a dois metros Diferença de nível maior que dois metros"
+      ]
+    },
+    {
+      "epi": "CAPACETE DE SEGURANÇA COM JUGULAR",
+      "ca": "",
+      "cargos": 2,
+      "riscos": [
+        "Queda de objetos Diferença de nível maior que dois metros"
+      ]
+    },
+    {
+      "epi": "CINTO DE SEGURANÇA COM 2 TALABARTE",
+      "ca": "",
+      "cargos": 2,
+      "riscos": [
+        "Diferença de nível maior que dois metros"
+      ]
+    },
+    {
+      "epi": "SAPATO ANTIDERRAPANTE",
+      "ca": "",
+      "cargos": 1,
+      "riscos": [
+        "Produtos químicos Umidade Pisos, passagens, passarelas, plataformas, rampas e corredores com saliências, descontinuidades, aberturas ou obstruções, ou escorregadios"
+      ]
+    },
+    {
+      "epi": "LUVAS DE LÁTEX - MSB MEDICAL SYSTEM DO BRASIL",
+      "ca": "",
+      "cargos": 1,
+      "riscos": [
+        "Agentes biológicos infecciosos e infectocontagiosos (bactérias, vírus, protozoários, fungos, príons, parasitas e outros)"
+      ]
+    },
+    {
+      "epi": "LUVAS DE LÁTEX",
+      "ca": "",
+      "cargos": 1,
+      "riscos": [
+        "Produtos químicos"
+      ]
+    },
+    {
+      "epi": "UNIFORME COMPLETO",
+      "ca": "",
+      "cargos": 1,
+      "riscos": [
+        "Produtos químicos"
+      ]
+    }
+  ],
+  "cargos": [
+    {
+      "nome": "ANALISTA CONTÁBIL",
+      "cbo": "252210",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE ESTOQUE",
+      "cbo": "252725",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Queda de objetos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE ESTOQUE JÚNIOR",
+      "cbo": "252725",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Queda de objetos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE GENTE E GESTÃO",
+      "cbo": "252405",
+      "ambiente": "RECURSOS HUMANOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE PESQUISA E DESENVOLVIMENTO SR",
+      "cbo": "142605",
+      "ambiente": "P&D / MANUTENÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "ÓCULOS DE PROTEÇÃO",
+          "ca": "(CA: 6136)",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE PRODUÇÃO",
+      "cbo": "784205",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "LUVA PARA PROTEÇÃO CONTRA AGENTES MECÂNICOS",
+          "ca": "(CA: 15272)",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE PRODUÇÃO JÚNIOR",
+      "cbo": "784205",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "LUVA PARA PROTEÇÃO CONTRA AGENTES MECÂNICOS",
+          "ca": "(CA: 15272)",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE PROJETOS",
+      "cbo": "142605",
+      "ambiente": "PROJETOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE QUALIDADE",
+      "cbo": "391210",
+      "ambiente": "GARANTIA DA QUALIDADE",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE QUALIDADE JÚNIOR",
+      "cbo": "391210",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE RH",
+      "cbo": "252405",
+      "ambiente": "RECURSOS HUMANOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ANALISTA DE RH JÚNIOR",
+      "cbo": "252405",
+      "ambiente": "RECURSOS HUMANOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "APRENDIZ DE SERVIÇOS DE PRODUÇÃO",
+      "cbo": "411005",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Queda de objetos"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE ADMINISTRATIVO",
+      "cbo": "411010",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE CONTÁBIL",
+      "cbo": "354125",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE DA QUALIDADE",
+      "cbo": "391215",
+      "ambiente": "GARANTIA DA QUALIDADE E ASSUNTOS REGULATÓRIOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE DE CONTROLE DA QUALIDADE",
+      "cbo": "391205",
+      "ambiente": "CONTROLE DA QUALIDADE",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE DE MELHORIA CONTÍNUA",
+      "cbo": "317110",
+      "ambiente": "PROJETOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE DE PCP",
+      "cbo": "391125",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE DE PROJETO DE PRODUTO",
+      "cbo": "317110",
+      "ambiente": "PROJETOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE DE PROJETOS",
+      "cbo": "317110",
+      "ambiente": "PROJETOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE DE TECNOLOGIA DA INFORMAÇÃO",
+      "cbo": "313205",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE DE VENDAS",
+      "cbo": "354125",
+      "ambiente": "COMERCIAL",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE DE VENDAS INTERNAS",
+      "cbo": "354125",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ASSISTENTE FINANCEIRO",
+      "cbo": "411010",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "AUXILIAR DE ESTOQUE",
+      "cbo": "414105",
+      "ambiente": "LOGÍSTICA",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "AUXILIAR DE LOGÍSTICA",
+      "cbo": "414140",
+      "ambiente": "LOGÍSTICA",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "AUXILIAR DE P & D",
+      "cbo": "395105",
+      "ambiente": "P&D / MANUTENÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "AUXILIAR DE PRODUÇÃO",
+      "cbo": "784205",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "LUVA TÉRMICA",
+          "ca": "",
+          "risco": "Queimaduras"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": "A AUDIOMETRIA deverá ser realizada no momento da admissão, no 6º (sexto) mês após a mesma,"
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "AUXILIAR DE PRODUÇÃO I",
+      "cbo": "784205",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros"
+        },
+        {
+          "epi": "LUVA TÉRMICA",
+          "ca": "",
+          "risco": "Queimaduras"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "ÓCULOS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "OCULOS DE PROTEÇÃO UV",
+          "ca": "",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": "A AUDIOMETRIA deverá ser realizada no momento da admissão, no 6º (sexto) mês após a mesma,"
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "AUXILIAR DE PRODUÇÃO II",
+      "cbo": "784205",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros"
+        },
+        {
+          "epi": "LUVA TÉRMICA",
+          "ca": "",
+          "risco": "Queimaduras"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "ÓCULOS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "OCULOS DE PROTEÇÃO UV",
+          "ca": "",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": "A AUDIOMETRIA deverá ser realizada no momento da admissão, no 6º (sexto) mês após a mesma,"
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "AUXILIAR DE PRODUÇÃO III",
+      "cbo": "784205",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros"
+        },
+        {
+          "epi": "LUVA TÉRMICA",
+          "ca": "",
+          "risco": "Queimaduras"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "ÓCULOS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "OCULOS DE PROTEÇÃO UV",
+          "ca": "",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": "A AUDIOMETRIA deverá ser realizada no momento da admissão, no 6º (sexto) mês após a mesma,"
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "AUXILIAR DE PROJETOS",
+      "cbo": "395105",
+      "ambiente": "PROJETOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "AUXILIAR DE SERVIÇOS GERAIS",
+      "cbo": "514320",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "BIOLÓGICOS",
+          "agente": " Agentes biológicos infecciosos e infectocontagiosos (bactérias, vírus, protozoários, fungos, príons, parasitas e outros)",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Umidade",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "SAPATO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Produtos químicos Umidade Pisos, passagens, passarelas, plataformas, rampas e corredores com saliências, descontinuidades, aberturas ou obstruções, ou escorregadios"
+        },
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Agentes biológicos infecciosos e infectocontagiosos (bactérias, vírus, protozoários, fungos, príons, parasitas e outros)"
+        },
+        {
+          "epi": "LUVAS DE LÁTEX - MSB MEDICAL SYSTEM DO BRASIL",
+          "ca": "",
+          "risco": "Agentes biológicos infecciosos e infectocontagiosos (bactérias, vírus, protozoários, fungos, príons, parasitas e outros)"
+        },
+        {
+          "epi": "MÁSCARA PFF2",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "LUVAS DE LÁTEX",
+          "ca": "",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "CONFERENTE DE MERCADORIAS",
+      "cbo": "414120",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "COORDENADOR DE GARANTIA DA QUALIDADE E ASSUNTOS REGULATÓRIOS",
+      "cbo": "223405",
+      "ambiente": "GARANTIA DA QUALIDADE E ASSUNTOS REGULATÓRIOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "COORDENADOR DE VENDAS INTERNAS",
+      "cbo": "520110",
+      "ambiente": "COMERCIAL",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "DIRETOR INDUSTRIAL PRÓ-LABORE",
+      "cbo": "122205",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ESPECIALISTA DE PRODUTOS",
+      "cbo": "520110",
+      "ambiente": "COMERCIAL",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ESTAGIÁRIO ADMINISTRATIVO",
+      "cbo": "411010",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ESTAGIÁRIO DE CONTROLE DE QUALIDADE",
+      "cbo": "391210",
+      "ambiente": "CONTROLE DA QUALIDADE",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ESTAGIÁRIO DE PRODUÇÃO",
+      "cbo": "784205",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros"
+        },
+        {
+          "epi": "LUVA TÉRMICA",
+          "ca": "",
+          "risco": "Queimaduras"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "ÓCULOS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "OCULOS DE PROTEÇÃO UV",
+          "ca": "",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ESTAGIÁRIO DE PROJETOS",
+      "cbo": "214420",
+      "ambiente": "PROJETOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "ESTAGIÁRIO P&D",
+      "cbo": "395105",
+      "ambiente": "P&D / MANUTENÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "GERENTE ADMINISTRATIVO/FINANCEIRO",
+      "cbo": "142105",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "INSPETORA DA QUALIDADE",
+      "cbo": "391205",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros"
+        },
+        {
+          "epi": "LUVA TÉRMICA",
+          "ca": "",
+          "risco": "Queimaduras"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "ÓCULOS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "OCULOS DE PROTEÇÃO UV",
+          "ca": "",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "JOVEM APRENDIZ ADMINISTRATIVO",
+      "cbo": "411005",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "LÍDER DE PRODUÇÃO",
+      "cbo": "810305",
+      "ambiente": "PRODUÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "CALÇADO ANTIDERRAPANTE",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros"
+        },
+        {
+          "epi": "LUVA TÉRMICA",
+          "ca": "",
+          "risco": "Queimaduras"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "ÓCULOS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "OCULOS DE PROTEÇÃO UV",
+          "ca": "",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": "A AUDIOMETRIA deverá ser realizada no momento da admissão, no 6º (sexto) mês após a mesma,"
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "MENOR APRENDIZ",
+      "cbo": "411010",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "SÓCIO",
+      "cbo": "121010",
+      "ambiente": "ADMINISTRATIVO",
+      "riscos": [],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "SUPERVISOR DA GARANTIA DA QUALIDADE E ASSUNTOS REGULATÓRIOS",
+      "cbo": "223405",
+      "ambiente": "GARANTIA DA QUALIDADE E ASSUNTOS REGULATÓRIOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "SUPERVISOR DE PROJETOS",
+      "cbo": "317110",
+      "ambiente": "PROJETOS",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": "E MELHORIAS  Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": "E MELHORIAS  Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "SUPERVISORA DE CONTROLE DA QUALIDADE",
+      "cbo": "391205",
+      "ambiente": "CONTROLE DA QUALIDADE",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Diferença de nível menor ou igual a dois metros",
+          "exposicao": "Eventual/Ocasional"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        }
+      ],
+      "epis": [],
+      "exames": [
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Periódico"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    },
+    {
+      "nome": "TÉCNICO EM MANUTENÇÃO ELÉTRICA",
+      "cbo": "313120",
+      "ambiente": "P&D / MANUTENÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "BOTAS COM BIQUEIRA DE PVC",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros Choque elétrico Diferença de nível maior que dois metros"
+        },
+        {
+          "epi": "CAPACETE DE SEGURANÇA COM JUGULAR",
+          "ca": "",
+          "risco": "Queda de objetos Diferença de nível maior que dois metros"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos Diferença de nível maior que dois metros"
+        },
+        {
+          "epi": "CINTO DE SEGURANÇA COM 2 TALABARTE",
+          "ca": "",
+          "risco": "Diferença de nível maior que dois metros"
+        },
+        {
+          "epi": "ÓCULOS DE PROTEÇÃO",
+          "ca": "(CA: 6136)",
+          "risco": "Produtos químicos Diferença de nível maior que dois metros"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0658",
+          "nome": "GLICEMIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0300",
+          "nome": "AVALIAÇÃO PSICOSSOCIAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": "A AUDIOMETRIA deverá ser realizada no momento da admissão, no 6º (sexto) mês após a mesma,"
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Recomendamos que só deverão fazer o Eletrocardiograma (ECG) os colaboradores que tiverem à"
+        },
+        {
+          "codigo": "0536",
+          "nome": "EEG",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        }
+      ]
+    },
+    {
+      "nome": "TÉCNICO EM MANUTENÇÃO GERAL",
+      "cbo": "514310",
+      "ambiente": "P&D / MANUTENÇÃO",
+      "riscos": [
+        {
+          "categoria": "ACIDENTES / MECÂNICOS",
+          "agente": " Batida contra",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "ERGONÔMICOS",
+          "agente": " Trabalho em posturas incômodas ou pouco confortáveis por longos períodos",
+          "exposicao": "Habitual"
+        },
+        {
+          "categoria": "FÍSICOS",
+          "agente": " Ruído continuo ou intermitente",
+          "exposicao": "Intermitente"
+        },
+        {
+          "categoria": "QUÍMICOS",
+          "agente": " Produtos químicos",
+          "exposicao": "Intermitente"
+        }
+      ],
+      "epis": [
+        {
+          "epi": "BOTAS COM BIQUEIRA DE PVC",
+          "ca": "",
+          "risco": "Diferença de nível menor ou igual a dois metros Diferença de nível maior que dois metros"
+        },
+        {
+          "epi": "CAPACETE DE SEGURANÇA COM JUGULAR",
+          "ca": "",
+          "risco": "Queda de objetos Diferença de nível maior que dois metros"
+        },
+        {
+          "epi": "LUVAS DE PROTEÇÃO",
+          "ca": "",
+          "risco": "Produtos químicos Diferença de nível maior que dois metros"
+        },
+        {
+          "epi": "CINTO DE SEGURANÇA COM 2 TALABARTE",
+          "ca": "",
+          "risco": "Diferença de nível maior que dois metros"
+        },
+        {
+          "epi": "ÓCULOS DE PROTEÇÃO",
+          "ca": "(CA: 6136)",
+          "risco": "Produtos químicos Diferença de nível maior que dois metros"
+        },
+        {
+          "epi": "PROTETOR AUDITIVO",
+          "ca": "(CA: 14235)",
+          "risco": "Ruído continuo ou intermitente"
+        },
+        {
+          "epi": "UNIFORME COMPLETO",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "MÁSCARA PFF2",
+          "ca": "",
+          "risco": "Produtos químicos"
+        },
+        {
+          "epi": "RESPIRADOR PURIFICADOR DE AR TIPO PEÇA UM QUARTO FACIAL",
+          "ca": "(CA: 39428)",
+          "risco": "Produtos químicos"
+        }
+      ],
+      "exames": [
+        {
+          "codigo": "0658",
+          "nome": "GLICEMIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0536",
+          "nome": "EEG",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0673",
+          "nome": "GRUPO SANGUÍNEO / FATOR RH",
+          "situacoes": [
+            "Admissional",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "",
+          "observacao": ""
+        },
+        {
+          "codigo": "0693",
+          "nome": "HEMOGRAMA COMPLETO",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0295",
+          "nome": "AVALIAÇÃO CLINICA OCUPACIONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0300",
+          "nome": "AVALIAÇÃO PSICOSSOCIAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0296",
+          "nome": "ACUIDADE VISUAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1410",
+          "nome": "RAIO X - COLUNA LOMBAR",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 24 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "1057",
+          "nome": "ESPIROMETRIA",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0281",
+          "nome": "AUDIOMETRIA TONAL",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 6 meses",
+          "observacao": "A AUDIOMETRIA deverá ser realizada no momento da admissão, no 6º (sexto) mês após a mesma,"
+        },
+        {
+          "codigo": "1086",
+          "nome": "RETICULOCITOS",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": ""
+        },
+        {
+          "codigo": "0530",
+          "nome": "ECG",
+          "situacoes": [
+            "Admissional",
+            "Periódico",
+            "Retorno ao trabalho",
+            "Mudança de risco/função",
+            "Demissional"
+          ],
+          "periodicidade": "A cada 12 meses",
+          "observacao": "Somente para colaboradores a partir de 40 anos (ambos os sexos). A cada 12 meses"
+        }
+      ]
+    }
+  ],
+  "observacoesGerais": "Matriz mantém todos os cargos do PGR/PCMSO, inclusive os sem colaborador ativo. Cargos ausentes nos programas serão adicionados pelo RH na próxima renovação."
+}

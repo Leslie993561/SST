@@ -1,0 +1,37 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dados reais de colaboradores (CPF, saúde) — repositório é PÚBLICO.
+# Nunca commitar. Ver src/data/colaboradores.example.json para o formato esperado
+# e README.md > "Dados e privacidade (LGPD)" para o plano de migração para Supabase.
+src/data/colaboradores.json
+
+# SQL gerado sob demanda (scripts/gen-cargo-departamento-sql.mjs) a partir de
+# planilhas com CPF/nome reais — sempre local, nunca commitado.
+supabase/local/
+
+# Scripts SQL avulsos de correção pontual de dados reais (gerados ad-hoc numa
+# conversa, para rodar manualmente no SQL Editor do Supabase) — nunca commitados.
+supabase/*.local.sql

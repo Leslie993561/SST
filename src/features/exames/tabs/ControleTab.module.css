@@ -1,0 +1,39 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.toolbarCard {
+  padding: 14px 16px;
+}
+
+.idadeCell {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.pendCount {
+  color: var(--color-warning);
+  font-weight: 600;
+  font-size: 11.5px;
+  margin-left: 6px;
+}
+
+.acoesCell {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.colabButton {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  text-align: left;
+}

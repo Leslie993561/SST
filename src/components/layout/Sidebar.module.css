@@ -1,0 +1,70 @@
+.sidebar {
+  width: 240px;
+  flex: none;
+  background: var(--color-surface);
+  border-right: 1px solid var(--color-border);
+  display: flex;
+  flex-direction: column;
+  padding: 22px 0;
+}
+
+.brand {
+  padding: 0 20px 22px;
+}
+
+.sectionLabel {
+  padding: 0 22px 12px;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-muted-light);
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 0 12px;
+}
+
+.navItem {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  font-size: 13px;
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.navItem:hover {
+  background: #f2f8fa;
+}
+
+.navItem.active {
+  background: var(--color-brand-pale);
+  color: var(--color-navy-soft);
+  font-weight: 600;
+}
+
+.integrations {
+  margin: auto 12px 0;
+  padding: 14px;
+  background: linear-gradient(160deg, #e3f0f4, #f2f8fa);
+  border-radius: 12px;
+  font-size: 11px;
+  color: var(--color-brand-dark);
+  line-height: 1.6;
+}
+
+.integrations strong {
+  color: var(--color-navy-soft);
+}
+
+.integrationsHint {
+  margin-top: 6px;
+  font-size: 10px;
+  color: #7fa6b3;
+}

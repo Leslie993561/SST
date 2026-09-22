@@ -1,0 +1,25 @@
+.avatar {
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  flex: none;
+}
+
+.brand {
+  background: var(--color-brand);
+  color: #fff;
+}
+.danger {
+  background: var(--color-danger-bg);
+  color: var(--color-danger);
+}
+.purple {
+  background: var(--color-purple-bg);
+  color: var(--color-purple);
+}
+.warning {
+  background: var(--color-warning-bg);
+  color: var(--color-warning);
+}

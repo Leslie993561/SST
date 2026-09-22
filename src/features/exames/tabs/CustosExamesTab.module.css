@@ -1,0 +1,37 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.exameCell {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--color-navy);
+}
+
+.codigoPill {
+  font-size: 10.5px;
+  font-family: var(--font-mono);
+  color: var(--color-muted);
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  padding: 2px 7px;
+}
+
+.historyPill {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 10.5px;
+  color: var(--color-purple);
+  background: var(--color-purple-bg);
+  border-radius: var(--radius-pill);
+  padding: 2px 7px;
+}
+
+.progressCell {
+  width: 120px;
+}

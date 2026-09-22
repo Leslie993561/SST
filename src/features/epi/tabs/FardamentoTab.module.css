@@ -1,0 +1,76 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.filterCard {
+  padding: 14px 16px;
+}
+
+.filterGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr) repeat(2, 150px) auto;
+  gap: 10px;
+  align-items: center;
+}
+
+@media (max-width: 1300px) {
+  .filterGrid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.clearButton {
+  border: 1px solid var(--color-border-strong);
+  background: var(--color-surface);
+  color: var(--color-navy);
+  font-size: 12.5px;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 8px 14px;
+}
+.clearButton:hover {
+  border-color: var(--color-brand);
+}
+
+.colabCell {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.colabCell span {
+  font-size: 11px;
+  color: var(--color-muted);
+}
+
+.equipCell {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--color-navy);
+}
+
+.historyPill {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 10.5px;
+  color: var(--color-purple);
+  background: var(--color-purple-bg);
+  border-radius: var(--radius-pill);
+  padding: 2px 7px;
+}
+
+.chipValueAmber {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--color-warning);
+  font-family: var(--font-mono);
+  margin-top: 2px;
+}
+
+.valorAmber {
+  color: var(--color-warning);
+  font-weight: 700;
+}
