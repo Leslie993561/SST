@@ -16,7 +16,11 @@ export function Sidebar() {
   return (
     <aside className={styles.sidebar}>
       <div className={styles.brand}>
-        <img src="/assets/logo-msb-oficial.png" alt="MSB · Medical System do Brasil" height={54} />
+        <img
+          src={`${import.meta.env.BASE_URL}assets/logo-msb-oficial.png`}
+          alt="MSB · Medical System do Brasil"
+          height={54}
+        />
       </div>
       <div className={styles.sectionLabel}>Portal SST</div>
       <nav className={styles.nav}>

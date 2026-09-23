@@ -35,7 +35,12 @@ export function LoginPage() {
   return (
     <div className={styles.page}>
       <div className={styles.card}>
-        <img src="/assets/logo-msb-oficial.png" alt="MSB · Medical System do Brasil" height={62} className={styles.logo} />
+        <img
+          src={`${import.meta.env.BASE_URL}assets/logo-msb-oficial.png`}
+          alt="MSB · Medical System do Brasil"
+          height={62}
+          className={styles.logo}
+        />
         <div className={styles.eyebrow}>Portal SST</div>
 
         {sentTo ? (
