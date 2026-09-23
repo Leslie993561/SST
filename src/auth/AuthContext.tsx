@@ -72,7 +72,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         // enviar a origem de onde o pedido partiu, o link sempre volta para o lugar certo
         // (localhost em dev, o domínio da Vercel em produção) — desde que essa mesma URL
         // esteja também na lista de "Redirect URLs" permitidas no painel do Supabase.
-        emailRedirectTo: window.location.origin,
+        emailRedirectTo: `${window.location.origin}/sst`,
       },
     });
     if (error) {

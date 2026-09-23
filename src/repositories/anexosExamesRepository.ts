@@ -96,7 +96,7 @@ export async function anexarExame(input: AnexarExameInput): Promise<AnexarExameR
   const token = sessionData.session?.access_token;
   if (!token) return { ok: false, error: "Sessão expirada — faça login novamente." };
 
-  const res = await fetch("/api/atualizar-exame", {
+  const res = await fetch("/sst/api/atualizar-exame", {
     method: "POST",
     headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
     body: JSON.stringify({ colabId: input.colabId, proc: input.proc, ultimo: input.dataISO, proximo: input.proximo }),

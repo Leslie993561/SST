@@ -16,14 +16,14 @@ async function authHeaders(): Promise<Record<string, string>> {
 }
 
 export async function listarAcessos(): Promise<AcessoUsuario[]> {
-  const res = await fetch("/api/listar-acessos", { headers: await authHeaders() });
+  const res = await fetch("/sst/api/listar-acessos", { headers: await authHeaders() });
   const body = await res.json();
   if (!res.ok) throw new Error(body.error || "Falha ao carregar acessos.");
   return body.usuarios;
 }
 
 export async function provisionarAcesso(email: string): Promise<{ jaExistia: boolean }> {
-  const res = await fetch("/api/provisionar-acesso", {
+  const res = await fetch("/sst/api/provisionar-acesso", {
     method: "POST",
     headers: { "Content-Type": "application/json", ...(await authHeaders()) },
     body: JSON.stringify({ email }),

@@ -92,7 +92,7 @@ class SupabaseColaboradoresRepository implements ColaboradoresRepository {
     const token = sessionData.session?.access_token;
     if (!token) return { ok: false, error: "Sessão expirada — faça login novamente." };
 
-    const res = await fetch("/api/desligar-colaborador", {
+    const res = await fetch("/sst/api/desligar-colaborador", {
       method: "POST",
       headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
       body: JSON.stringify({ colabId, dataIso, motivo }),
@@ -109,7 +109,7 @@ class SupabaseColaboradoresRepository implements ColaboradoresRepository {
     const token = sessionData.session?.access_token;
     if (!token) return { ok: false, error: "Sessão expirada — faça login novamente." };
 
-    const res = await fetch("/api/atualizar-colaborador", {
+    const res = await fetch("/sst/api/atualizar-colaborador", {
       method: "POST",
       headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
       body: JSON.stringify({ colabId, ...dados }),

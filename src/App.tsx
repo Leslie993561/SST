@@ -16,7 +16,7 @@ function App() {
   return (
     <AuthProvider>
       <PortalStoreProvider>
-        <BrowserRouter>
+        <BrowserRouter basename="/sst">
           <Routes>
             <Route path="/login" element={<LoginPage />} />
             <Route
